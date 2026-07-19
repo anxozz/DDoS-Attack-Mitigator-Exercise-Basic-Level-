@@ -131,7 +131,7 @@ int main(){
                 break;
                 
             case 4:
-                // EXITING THE PROGRAM.
+                // EXITING THE PROGRAM
                 printf("Leaving the program...\n");
                 break;
 
